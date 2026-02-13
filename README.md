@@ -2,7 +2,7 @@
 
 Implementação em Go do clássico efeito de fogo do Doom, renderizado no terminal.
 
-![Dooom fire Demo](assets/doom-fire.gif)
+![Dooom fire Demo](./assets/doom-fire.gif)
 
 ## Como executar
 
